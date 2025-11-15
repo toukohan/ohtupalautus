@@ -13,7 +13,7 @@ Login With Incorrect Password
 
 Login With Nonexistent Username
     Input Credentials  eioo  salasana
-    Output SHould Contain  Invalid username or password
+    Output Should Contain  Invalid username or password
     
 *** Keywords ***
 Create User And Input Login Command
